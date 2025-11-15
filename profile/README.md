@@ -10,7 +10,7 @@ This organization contains experiments, utilities, and small research-driven pro
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 A public notebook for building, testing, and sharing machine learning ideas — nothing formal, just open exploration.
 <!--
